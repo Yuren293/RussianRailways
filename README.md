@@ -4,7 +4,7 @@ Research practice. Case from Russian Railways.
 1. Analyzed the predictability of the time series of the number of railcars in the directions of the Russian Railways
 2. Conducted a series analysis for predictability, analysis of the cluster structure of the series, analysis of various predictive models, produced feature engineering and built
 a pipeline for forecasting the series 
-3. General conclusions and ways of solving problems for ,kjmhbgbbforecasting were made.
+3. General conclusions and ways of solving problems for forecasting were made.
 
 ###### Solution 2 Description :
 1. The original dataset was converted into a dataset describing some event model that describes events that occurred with wagons with a sampling rate of 1 hour
